@@ -1,0 +1,19 @@
+body {
+    font-family: "Roboto";
+}
+
+.textarea {
+    resize: none;
+    outline: none;
+}
+
+.container {
+    width: 500px;
+
+}
+
+.comment {
+    border: 1px solid grey;
+    margin: 20px;
+    width: 450px;
+}
